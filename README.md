@@ -1,2 +1,2 @@
-# <div align="senter">self-bot-v2</div>
+# <div align="center">self-bot-v2</div>
 
