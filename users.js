@@ -2,7 +2,6 @@
 const discord = require("discord.js")
 const express = require('express');
 const app = express();
-const prefix = "!";
 const port = 1001;
 
 app.get('/', (req, res) => res.send('Bot Is Working Well!'));
